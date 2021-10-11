@@ -1,0 +1,14 @@
+.Button {
+  margin-top: 5px;
+  padding : 5px;
+  border: 2px solid black;
+  width: 40%;
+}
+.ButtonShow {
+  background-color: lightgreen;
+  
+}
+
+.ButtonHide {
+  background-color: lightsalmon;
+}

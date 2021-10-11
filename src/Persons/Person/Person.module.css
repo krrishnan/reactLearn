@@ -1,0 +1,10 @@
+.Person{
+  text-align: center;
+  width: 40%;
+  margin: auto;
+  border: 2px solid lightblue;
+  padding: 5px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  background-color: ghostwhite;
+}
